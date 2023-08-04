@@ -1,2 +1,2 @@
-Criando templates com a biblioteca Jinja2 - Parte 1
-( https://www.youtube.com/watch?v=dZvvKwfYnFo )
+FastApi com template jinja2 (para iniciantes)
+( https://www.youtube.com/watch?v=Gwtdz18_-wE )
