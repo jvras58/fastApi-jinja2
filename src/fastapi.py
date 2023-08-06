@@ -1,10 +1,8 @@
 from fastapi import FastAPI
 from fastapi.responses import HTMLResponse
-from fastapi.staticfiles import StaticFiles
-from fastapi.templating import Jinja2Templates
 
 
-#cuidado com as pastas essa disgraça tava causando erro kkk (uvicorn src.fast_zerotamplete_generic:app --reload)
+#cuidado com as pastas essa disgraça tava causando erro kkk (uvicorn src.fastapi:app --reload)
 
 #starta o corno 
 app = FastAPI()
